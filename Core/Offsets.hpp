@@ -80,7 +80,7 @@ constexpr long OFF_HIGHLIGHT_TYPE_SIZE = 0x34;
 constexpr long OFF_GLOW_THROUGH_WALL = 0x26c; //[DT_HighlightSettings].?
 constexpr long OFF_GLOW_FIX = 0x278;
 constexpr long OFF_GLOW_HIGHLIGHT_ID = 0x29C; //[DT_HighlightSettings].m_highlightServerActiveStates
-constexpr long OFF_GLOW_HIGHLIGHTS = 0xb199720; // [Miscellaneous]->HighlightSettings
+constexpr long OFF_GLOW_HIGHLIGHTS = 0xb17e220; // [Miscellaneous]->HighlightSettings
 constexpr long OFF_GLOW_ENABLE = 0x27c; // ? unused
  
 // Item
